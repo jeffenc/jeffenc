@@ -19,17 +19,19 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square)](https://www.yourportfolio.com)
 -->
 
-## About Me
+## About Me 📖
 
-I'm Jeff, an experienced quality engineer with over 8+ years of industry experience. I have a strong background in software quality and assurance through test automation developing frameworks. I'm passionate about creating robust, maintainable and scalable software test solutions that help push projects forward faster towards production. 
+I'm Jeff, an experienced quality engineer with over 8+ years of industry experience in Financial Services and Banking domain. I have a strong background in software quality and assurance via test automation (UI, API, DB, Perf). I'm passionate about creating robust, maintainable and scalable software test solutions that help push agile teams and the business forward better and faster. 
 
-## Skills
+## Skills 🛠️
 
 - Programming Languages: Java, TypeScript
-- Tools and Technologies: JIRA, Figma, TestRail, Playwright, Cypress, Selenium, Rest Assured, PostgreSQL, Cucumber, Docker, Azure
+- Project Management & Design: JIRA, Figma
 - Version Control: Git, GitHub
-- Frameworks and Libraries: React, Angular, Node.js
+- CI/CD: Bash, Jenkins, Azure
+- Frameworks and Libraries: React, Angular, Node.js, Spring, .NET
 - Agile Methodologies: Scrum, Kanban, Shift Left Testing
+- Testing Tools & Technologies: TestRail, Playwright, Cypress, Selenium, Rest Assured, PostgreSQL, Cucumber, Docker
 
 <!--
 ## Projects
@@ -59,5 +61,5 @@ I'm Jeff, an experienced quality engineer with over 8+ years of industry experie
 - LinkedIn: [linkedin.com/in/jeffrey-encarnacion](https://www.linkedin.com/in/jeffrey-encarnacion)
 -->
 
-Feel free to reach out to me if you have any inquiries or collaboration opportunities. I'm always interested in connecting with like-minded professionals. 
+Feel free to reach out to me if you have any inquiries or collaboration opportunities. I'm always interested in connecting with like-minded professionals.📱
 
