@@ -46,7 +46,7 @@ I'm an experienced SDET/Sr. Quality Engineer with over 8+ years of industry expe
 - CI/CD: Bash, Jenkins, Azure
 - Frameworks and Libraries: React, Angular, Node.js, Spring, .NET
 - Agile Methodologies: Scrum, Kanban, Shift Left Testing
-- Testing Tools & Technologies: TestRail, Playwright, Cypress, Selenium, Rest Assured, PostgreSQL, Cucumber, Docker
+- Testing Tools & Technologies: TestRail, Playwright, Cypress, Appium, Selenium, Rest Assured, PostgreSQL, Cucumber, Docker
 
 ## Tooling 🧰
 
