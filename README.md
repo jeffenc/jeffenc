@@ -115,6 +115,12 @@ I'm an experienced SDET/Sr. Quality Engineer with over 8+ years of industry expe
 -->
 ---
 
+ I’m currently learning Web3 Blockchain
+-   💻 Currently working as a **Sr. QA Engineer**
+-   :monocle_face: Interested in everything **Automation**
+-   :seedling: Currently learning **AI**
+-   :heart: Breaking Things
+
 ## Connect 🔗
 
 <!-- 🔗 &nbsp;**Connect with me** -->
