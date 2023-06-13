@@ -13,23 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-encarnacion)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square)](https://www.yourportfolio.com)
+-->
 
 ## About Me
 
-I'm Jeffrey Encarnacion, an experienced engineer with over 8 years of industry experience. I have a strong background in Java and JavaScript development, and I'm passionate about creating robust and scalable software solutions. My expertise lies in building efficient and maintainable applications that solve complex problems.
+I'm Jeff, an experienced quality engineer with over 8+ years of industry experience. I have a strong background in software quality and assurance through test automation developing frameworks. I'm passionate about creating robust, maintainable and scalable software test solutions that help push projects forward faster towards production. 
 
 ## Skills
 
-- Programming Languages: Java, JavaScript
-- Tools and Technologies: JIRA, Figma, TestRail, Selenium, Rest Assured, Postman, PostgreSQL, Azure, Cucumber
-- Version Control: Git
-- Frameworks and Libraries: Spring Boot, React, Node.js
-- Agile Methodologies: Scrum, Kanban
+- Programming Languages: Java, TypeScript
+- Tools and Technologies: JIRA, Figma, TestRail, Playwright, Cypress, Selenium, Rest Assured, PostgreSQL, Cucumber, Docker, Azure
+- Version Control: Git, GitHub
+- Frameworks and Libraries: React, Angular, Node.js
+- Agile Methodologies: Scrum, Kanban, Shift Left Testing
 
+<!--
 ## Projects
 
 #### Project 1
@@ -44,10 +46,10 @@ I'm Jeffrey Encarnacion, an experienced engineer with over 8 years of industry e
 - Technologies used: List the technologies you used in this project.
 - GitHub Repository: Provide a link to the GitHub repository.
 
+
 ## Education
 
-- Bachelor of Science in Computer Engineering (Year of Graduation)
-- Any relevant certifications or online courses you have completed.
+- Bachelor of Science in Computer Engineering
 
 ## Contact
 
@@ -55,6 +57,7 @@ I'm Jeffrey Encarnacion, an experienced engineer with over 8 years of industry e
 - Phone: +1 123 456 7890
 - Location: City, Country
 - LinkedIn: [linkedin.com/in/jeffrey-encarnacion](https://www.linkedin.com/in/jeffrey-encarnacion)
+-->
 
-Feel free to reach out to me if you have any inquiries or collaboration opportunities. I'm always interested in connecting with like-minded professionals.
+Feel free to reach out to me if you have any inquiries or collaboration opportunities. I'm always interested in connecting with like-minded professionals. 
 
