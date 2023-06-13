@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About Me 📖
 
-I'm Jeff, an experienced quality engineer with over 8+ years of industry experience in Financial Services and Banking domain. I have a strong background in software quality and assurance via test automation (UI, API, DB, Perf). I'm passionate about creating robust, maintainable and scalable software test solutions that help push agile teams and the business forward better and faster. 
+I'm Jeff, an experienced quality engineer with over 8+ years of industry experience in Financial Services and Banking domain. I have a strong background in software quality and assurance via test automation (UI, API, DB, Perf). I'm passionate about creating robust, maintainable and scalable software test solutions that help push agile teams and businesses forward better and faster. 
 
 ## Skills 🛠️
 
