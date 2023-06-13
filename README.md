@@ -69,6 +69,7 @@ I'm Jeff, an experienced quality engineer with over 8+ years of industry experie
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <br />
+<br />
 
 <!--
 ## Projects
