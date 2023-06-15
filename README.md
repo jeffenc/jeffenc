@@ -47,7 +47,7 @@ I'm an experienced SDET/Sr. Quality Engineer with over 8+ years of industry expe
 - CI/CD: Bash, Docker, Jenkins, AWS, Azure
 - Frameworks and Libraries: React, Angular, Node.js, Spring, .NET
 - Agile Methodologies: Scrum, Kanban, Shift Left Testing
-- Testing Tools & Technologies: Cucumber, Playwright, Appium, Selenium, Sauce Labs
+- Testing Tools & Technologies: Cucumber, Playwright, Appium, Selenium, JMeter, Sauce Labs
 
 ## Tooling 🧰
 
