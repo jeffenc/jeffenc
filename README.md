@@ -44,7 +44,7 @@ I'm an experienced SDET/Sr. Quality Engineer with over 8+ years of industry expe
 - Project Management: JIRA, Miro, TestRail
 - Design UI/UX: Figma, Adobe XD
 - Version Control: Git, GitHub
-- CI/CD: Bash, Docker, Jenkins, Azure
+- CI/CD: Bash, Docker, Jenkins, AWS, Azure
 - Frameworks and Libraries: React, Angular, Node.js, Spring, .NET
 - Agile Methodologies: Scrum, Kanban, Shift Left Testing
 - Testing Tools & Technologies: Cucumber, Playwright, Appium, Selenium, Sauce Labs
